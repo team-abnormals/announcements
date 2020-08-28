@@ -47,9 +47,10 @@ The Wanderer's Boots are a boot item that increases the speed of the player by 2
 The Executioner's Cleaver is a strong new sword with high damage but low attack speed. As a bonus, it can drop Player heads upon kill. Vindicators have a chance to spawn with them, which gets higher based on the difficulty of the world.
 
 ### Building & Decoration
-![Building & Decoration](https://cdn.discordapp.com/attachments/710973586654887956/748986461088645220/2020-08-28_22.24.34.png)
+![Terracotta Bricks](https://cdn.discordapp.com/attachments/681170918747537601/749002037894578367/unknown.png)
 Plenty of new decorations and building blocks have been added, including many new brick types to go with the Ceramist and Kiln. New brick types were added such as Terracotta Bricks and Ice Bricks. In addition, chiseled variants of Bricks, Mud Bricks, Terracotta Bricks, and Ice Bricks were added.
 
+![Building & Decoration](https://cdn.discordapp.com/attachments/710973586654887956/748986461088645220/2020-08-28_22.24.34.png)
 To go with Ice Bricks, Ice Lanterns and Ice Chains are new craftable decorations. There are also Podzol and Mycelium paths available to go alongside Grass paths and the Nylium paths from Nether Extension. New foliage can be found around too, such as Mycelium Sprouts, and larger variants of lily pads, all in addition to Giant Tall Grass. 
 ## Final Remarks
 Developers: do not let this discourage you from creating and developing your own expansions to the overworld and the biomes we plan on expanding! Even if some ideas overlap a bit, it is not a major issue as we are sure both mods will have different plans for that content and the ideas as a whole. Please don't cancel your plans because of us, we love to see your mods and ideas as well! We know from time to time content may overlap but even if it does there are ways to address that and create compatibility for the player-base.
