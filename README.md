@@ -47,7 +47,7 @@ The Wanderer's Boots are a boot item that increases the speed of the player by 2
 The Executioner's Cleaver is a strong new sword with high damage but low attack speed. As a bonus, it can drop Player heads upon kill. Vindicators have a chance to spawn with them, which gets higher based on the difficulty of the world.
 
 ### Building & Decoration
-![Building & Decoration](https://cdn.discordapp.com/attachments/710973586654887956/748985682755584060/2020-08-28_22.21.31.png)
+![Building & Decoration](https://cdn.discordapp.com/attachments/710973586654887956/748986461088645220/2020-08-28_22.24.34.png)
 Plenty of new decorations and building blocks have been added, including many new brick types to go with the Ceramist and Kiln. New brick types were added such as Terracotta Bricks and Ice Bricks. In addition, chiseled variants of Bricks, Mud Bricks, Terracotta Bricks, and Ice Bricks were added.
 
 To go with Ice Bricks, Ice Lanterns and Ice Chains are new craftable decorations. There are also Podzol and Mycelium paths available to go alongside Grass paths and the Nylium paths from Nether Extension. New foliage can be found around too, such as Mycelium Sprouts, and larger variants of lily pads, all in addition to Giant Tall Grass. 
