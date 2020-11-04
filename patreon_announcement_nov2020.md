@@ -9,6 +9,7 @@ The Abnormals Modded SMP will be moving to a supporter SMP. We know this is hard
 
 ## Cosmetic Rewards
 We'd like to announce a brand new reward... **Slabfish!**
+
 $5+ patrons will have access to a customizable cosmetic Slabfish that will rest on their head when they have Abnormals Core present. The higher your tier, the more you have access to customizing.
 * Tier 2 ($5) patrons get a swamp Slabfish with their choice of backpack color.
 * Tier 3 ($10) patrons get a swamp Slabfish with their choice of backpack and sweater color.
