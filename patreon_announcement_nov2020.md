@@ -5,15 +5,15 @@
 [![Patreon](https://img.shields.io/endpoint?label=&color=014980&labelColor=537DB5&style=for-the-badge&logo=Patreon&logoColor=DDE4EF&url=https://shieldsio-patreon.vercel.app/api/?username=minecraftabnormals&type=patrons)](https://patreon.com/minecraftabnormals)
 ![](https://i.imgur.com/U7uo5Va.png)
 ## Updates to our Patreon
-Hey everyone! Our patreon will be recieving some updates, so that our patrons are getting rewarded more fairly, especially since one of our main rewards, testing the Cave Upgrade mod, has come to a halt.
+Hey everyone! Our patreon will be recieving some updates, so that our patrons are getting rewarded more fairly, especially since one of our main rewards, testing the Cave Upgrade mod, has come to a halt. This will include new rewards, tiers, and more! This is not happening immediately but will occur in the coming weeks.
 ### New Patreon Tier
-The $10 Slabfish tier is being renamed to the Booflo tier, and the new $20 tier will take the name of Slabfish tier. This will not affect your current payment. If you are currently a $10 patron, you will not be charged more.
+We are introducing a new $20 tier to address upcoming changes and new rewards. The $10 Slabfish tier is being renamed to the Booflo tier, and the new $20 tier will take the name of Slabfish tier. This will not affect your current payment. If you are currently a $10 patron, you will not be charged more.
 
 ### In-Development Betas
 All in-development betas are becoming a patron reward, rather than some betas being open to all and some betas being for patrons only. It will be much easier to organize this way and we noticed that in most cases, our supporters are the only ones actually testing the mods, rather than the majority who just use betas to get access to versions early. The mods will still be open-source to compile. $2+ patrons will get access to these betas.
 
 ### Abnormals Modded SMP
-The Abnormals Modded SMP will be moving to a supporter SMP. We know this is hard and sad for some but unfortunately we have to make this decision, as our SMP can't support too many players and we have a lot of patrons, boosters, and devs. Nitro Boosters will get access as long as they are boosting the server and $5+ patrons will get permanent access to the SMP. We withold the right to ban you if you are creating a toxic environment on the SMP.
+The Abnormals Modded SMP will be moving to a supporter SMP. We know this is hard and sad for some but unfortunately we have to make this decision, as our SMP can't support too many players and we have a lot of patrons, boosters, and devs. Nitro Boosters will get access as long as they are boosting the server and $5+ patrons will get permanent access to the SMP. Keep in mind, we still withold the right to ban you if you are creating a toxic environment on the SMP.
 
 ### Cosmetic Rewards
 We'd like to announce a brand new reward... **Slabfish!**
