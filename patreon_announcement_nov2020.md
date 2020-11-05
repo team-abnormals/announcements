@@ -5,7 +5,7 @@
 [![Patreon](https://img.shields.io/endpoint?label=&color=014980&labelColor=537DB5&style=for-the-badge&logo=Patreon&logoColor=DDE4EF&url=https://shieldsio-patreon.vercel.app/api/?username=minecraftabnormals&type=patrons)](https://patreon.com/minecraftabnormals)
 ![](https://i.imgur.com/U7uo5Va.png)
 ## Updates to our Patreon
-Hey everyone! Our patreon will be recieving some updates, so that our patrons are getting rewarded more fairly, especially since one of our main rewards, testing the Cave Upgrade mod, has come to a halt. This update will include new rewards, tiers, and more! This is not happening immediately, but it will occur in the coming days.
+Hey everyone! Since Mojang's Caves & Cliffs update resulted in us putting Cave Upgrade on hold, we realized we needed to offer more rewards to our patrons. Because of this, our Patreon will be receiving some updates. In the coming days, we will be introducing new rewards, tiers, and more!
 ### New Patreon Tier
 We are introducing a new $20 tier to address upcoming changes and new rewards. The $10 Slabfish tier is being renamed to the Booflo tier, and the new $20 tier will take the name of Slabfish tier. This will not affect your current payment. If you are currently a $10 patron, you will not be charged more.
 
