@@ -23,6 +23,8 @@ $5+ patrons will have access to a customizable cosmetic Slabfish that will rest 
 * Tier 3 ($10) patrons get a swamp Slabfish with their choice of backpack and sweater color.
 * Tier 4 ($20) patrons get a Slabfish with their choice of type, backpack, and sweater color.
 
+The backpack and sweater colors can be chosen from Minecraft's 16 dye colors, and the Slabfish type can be any of the existing Environmental Slabfish types excluding developer-exclusive Slabfish.
+
 We hope you enjoy your little Slabfish friend, which will be available starting in 1.16.4.
 
 ![](https://i.imgur.com/U7uo5Va.png)
