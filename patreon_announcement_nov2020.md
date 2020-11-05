@@ -29,6 +29,6 @@ We hope you enjoy your little Slabfish friend, which will be available starting 
 
 ## Closing Remarks
 We know many of you will be upset due to the changes presented. It wasn't easy to make these decisions but we felt extremely bad having $10 and $5 patrons who got almost nothing different for supporting us for that much money. We truly appreciate all our fans and supporters and we hope you all understand. 
-In the coming days, Tier 2+ patrons will recieve a message with a link to a form allowing them to submit their username to be whitelisted and their preferred customization options for their Slabfish hat.
-[If you are looking to patron or view the rewards, you can find it here.](https://www.patreon.com/teamabnormals)
+
+In the coming days, Tier 2+ patrons will recieve a message with a link to a form allowing them to submit their username to be whitelisted and their preferred customization options for their Slabfish hat. [If you are looking to patron or view the rewards, you can find it here.](https://www.patreon.com/teamabnormals)
 
