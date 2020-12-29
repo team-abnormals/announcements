@@ -30,4 +30,4 @@ A: Our mods are planned to stay on only Forge for the time being.
 **A:** The process is automatic, make sure you link your discord and patreon accounts
 
 **Q: Do I keep my Slabfish hat after supporting?**  
-**A:** Once you support, you keep your Slabfish hat forever.**
+**A:** Once you support, you keep your Slabfish hat forever.
