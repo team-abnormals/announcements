@@ -10,7 +10,6 @@ A: Our mods are planned to stay on only Forge for the time being.
 **A:** No.
 
 **Q: When will this mod update / release?**  
-
 **A:** When it is ready, we don't give release dates because plans change.
 
 ---
