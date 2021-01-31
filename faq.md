@@ -22,6 +22,18 @@ A: Our mods are planned to stay on only Forge for the time being.
 **Q: What happened to Swamp Expansion, Bloomful, and Incubation?**  
 **A:** They were merged into Environmental, an upcoming mod that expands upon the overworld.
 
+**Q: What happened to Bamboo Blocks?**  
+**A:** Bamboo blocks is awaiting a major overhaul and until then ports and updates are postponed.
+
+**Q: Can I grow banana plants?**  
+**A:** You can grow them using the banana fronds like saplings, the plants only grow in the rain. They only grow on their own on sand and gravel blocks, but can be bonemealed on any block, provided it is raining.
+
+**Q: Do the banana bunch blocks regrow?**  
+**A:** They don't, you have to regrow the plant.
+
+**Q: Can I nerf the rate of strawberry patches?**  
+**A:** Not currently, in part due to worldgen issues, keep in mind strawberries lack saturation and in many contexts can be the worst food available, no matter the quantity.
+
 ---
 
 # Questions regarding Patreon
@@ -31,3 +43,6 @@ A: Our mods are planned to stay on only Forge for the time being.
 
 **Q: Do I keep my Slabfish hat after supporting?**  
 **A:** Once you support, you keep your Slabfish hat forever.
+
+**Q: Do I keep my SMP access after supporting?**  
+**A:** Once you get access to the SMP, you keep it forever, provided you are not banned from it etc.
