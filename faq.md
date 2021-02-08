@@ -12,6 +12,9 @@ A: Our mods are planned to stay on only Forge for the time being.
 **Q: When will this mod update / release?**  
 **A:** When it is ready, we don't give release dates because plans change.
 
+**Q: Can I disable X feature?**  
+**A:** Check the config of the mod it comes from, typically we only provide configs for things that change vanilla features (ie. whether creepers explode). In the future this may change, but configs are a bit more difficult for our mods because many features tie into one another.
+
 ---
 
 # Questions regarding specific mods
