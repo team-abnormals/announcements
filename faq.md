@@ -23,7 +23,7 @@ A: Our mods are planned to stay on only Forge for the time being.
 **A:** These are currently not implemented completely and will be found in future biomes.
 
 **Q: What happened to Swamp Expansion, Bloomful, and Incubation?**  
-**A:** They were merged into Environmental, an upcoming mod that expands upon the overworld.
+**A:** They were merged into Environmental, a mod that expands upon the overworld as a whole.
 
 **Q: What happened to Bamboo Blocks?**  
 **A:** Bamboo blocks is awaiting a major overhaul and until then ports and updates are postponed.
