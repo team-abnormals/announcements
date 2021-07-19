@@ -1,7 +1,7 @@
 # Questions regarding all mods
 
-**Q: Will this mod come to 1.16.3 / 1.16.4?**  
-**A:** Yes, eventually. Many are currently in beta if you support us on patreon or boost the discord server.
+**Q: Will this mod come to 1.17 / 1.17.1?**  
+**A:** Yes, eventually. Forge for that version has not been released yet, so be patient.
 
 **Q: Will this mod port to Fabric?**  
 A: Our mods are planned to stay on only Forge for the time being.
