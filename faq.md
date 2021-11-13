@@ -1,7 +1,7 @@
 # Questions regarding all mods
 
 **Q: Will this mod come to 1.17 / 1.17.1?**  
-**A:** Yes, eventually. Forge for that version has not been released yet, so be patient.
+**A:** Yes, eventually. It is in progress but will take time. You can support us on [Patreon](https://www.patreon.com/teamabnormals) to access early betas.
 
 **Q: Will this mod port to Fabric?**  
 A: Our mods are planned to stay on only Forge for the time being.
