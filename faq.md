@@ -1,9 +1,9 @@
 # Questions regarding all mods
 
-**Q: Will this mod come to 1.17 / 1.17.1?**  
-**A:** Nope! We are skipping to 1.18.
+**Q: Will this mod come to 1.17?**  
+**A:** Nope! We are skipping to 1.18.2.
 
-**Q: Will this mod come to 1.18 / 1.18.1?**  
+**Q: Will this mod come to 1.18.2?**  
 **A:** Yes, eventually. It is in progress but will take time. You can support us on [Patreon](https://www.patreon.com/teamabnormals) to access early betas.
 
 **Q: Will this mod port to Fabric?**  
