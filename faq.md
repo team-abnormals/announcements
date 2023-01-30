@@ -3,11 +3,11 @@
 **Q: Will this mod come to 1.19.2?**  
 **A:** Yes, eventually. It is in progress but will take time. You can support us on [Patreon](https://www.patreon.com/teamabnormals) to access early betas.
 
-**Q: Will this mod port to Fabric?**  
-A: Our mods are planned to stay on only Forge for the time being.
-
 **Q: Will this mod come to 1.19.3?**  
 **A:** Not currently planned.
+
+**Q: Will this mod port to Fabric?**  
+A: Our mods are planned to stay on only Forge for the time being.
 
 **Q: Can you backport this mod to x version?**  
 **A:** No.
@@ -22,23 +22,23 @@ A: Our mods are planned to stay on only Forge for the time being.
 
 # Questions regarding specific mods
 
+**Q: Is The Endergetic Expansion coming to 1.18.2?**
+**A:** As it stands, probably not, but the update is not ready yet for 1.19.2, so things could change.
+
 **Q: Where can I find Kousa, Aspen, Grimwood, and Travertine?**  
 **A:** These are currently not implemented completely and will be found in future biomes.
 
-**Q: What happened to Swamp Expansion, Bloomful, and Incubation?**  
+**Q: What happened to Swamp Expansion and Bloomful?**  
 **A:** They were merged into Environmental, a mod that expands upon the overworld as a whole.
 
 **Q: What happened to Bamboo Blocks?**  
-**A:** Bamboo blocks is awaiting a major overhaul and until then ports and updates are postponed.
+**A:** Bamboo blocks has been abandoned.
 
 **Q: Can I grow banana plants?**  
 **A:** You can grow them using the banana fronds like saplings, the plants only grow in the rain. They only grow on their own on sand and gravel blocks, but can be bonemealed on any block, provided it is raining.
 
 **Q: Do the banana bunch blocks regrow?**  
 **A:** They don't, you have to regrow the plant.
-
-**Q: Can I nerf the rate of strawberry patches?**  
-**A:** Not currently, in part due to worldgen issues, keep in mind strawberries lack saturation and in many contexts can be the worst food available, no matter the quantity.
 
 ---
 
