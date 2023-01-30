@@ -20,6 +20,16 @@ A: Our mods are planned to stay on only Forge for the time being.
 
 ---
 
+# Questions regarding Patreon
+
+**Q: I supported you on patreon, where is my discord role & betas?**  
+**A:** The process is automatic, make sure you link your discord and patreon accounts
+
+**Q: Do I keep my Slabfish hat after supporting?**  
+**A:** Once you support, you keep your Slabfish hat forever.
+
+---
+
 # Questions regarding specific mods
 
 **Q: Is The Endergetic Expansion coming to 1.18.2?**
@@ -39,13 +49,3 @@ A: Our mods are planned to stay on only Forge for the time being.
 
 **Q: Do the banana bunch blocks regrow?**  
 **A:** They don't, you have to regrow the plant.
-
----
-
-# Questions regarding Patreon
-
-**Q: I supported you on patreon, where is my discord role & betas?**  
-**A:** The process is automatic, make sure you link your discord and patreon accounts
-
-**Q: Do I keep my Slabfish hat after supporting?**  
-**A:** Once you support, you keep your Slabfish hat forever.
