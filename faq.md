@@ -48,4 +48,4 @@ A: Our mods are planned to stay on only Forge for the time being.
 **A:** You can grow them using the banana fronds like saplings, the plants only grow in the rain. They only grow on their own on sand and gravel blocks, but can be bonemealed on any block, provided it is raining.
 
 **Q: Do the banana bunch blocks regrow?**  
-**A:** They don't, you have to regrow the plant.
+**A:** They don't, you have to regrow the plant. 
