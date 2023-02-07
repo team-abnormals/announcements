@@ -33,6 +33,7 @@ A: Our mods are planned to stay on only Forge for the time being.
 # Questions regarding specific mods
 
 **Q: Is The Endergetic Expansion coming to 1.18.2?**
+
 **A:** As it stands, probably not, but the update is not ready yet for 1.19.2, so things could change.
 
 **Q: Where can I find Kousa, Aspen, Grimwood, and Travertine?**  
