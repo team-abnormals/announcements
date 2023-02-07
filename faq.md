@@ -32,7 +32,7 @@ A: Our mods are planned to stay on only Forge for the time being.
 
 # Questions regarding specific mods
 
-**Q: Is The Endergetic Expansion coming to 1.18.2?**
+**Q: Is The Endergetic Expansion coming to 1.18.2?**  
 **A:** As it stands, probably not, but the update is not ready yet for 1.19.2, so things could change.
 
 **Q: Where can I find Kousa, Aspen, Grimwood, and Travertine?**  
@@ -48,4 +48,4 @@ A: Our mods are planned to stay on only Forge for the time being.
 **A:** You can grow them using the banana fronds like saplings, the plants only grow in the rain. They only grow on their own on sand and gravel blocks, but can be bonemealed on any block, provided it is raining.
 
 **Q: Do the banana bunch blocks regrow?**  
-**A:** They don't, you have to regrow the plant. 
+**A:** They don't, you have to regrow the plant.
