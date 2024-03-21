@@ -1,10 +1,13 @@
 # Questions regarding all mods
 
-**Q: Will this mod come to 1.19.2?**  
+**Q: Will this mod come to 1.20.1?**  
 **A:** Yes, eventually. It is in progress but will take time. You can support us on [Patreon](https://www.patreon.com/teamabnormals) to access early betas.
 
-**Q: Will this mod come to 1.19.3?**  
+**Q: Will this mod come to 1.19.4?**  
 **A:** Not currently planned.
+
+**Q: Will this mod come to 1.20.4?**  
+**A:** Probably not. Maybe 1.20.5.
 
 **Q: Will this mod port to Fabric?**  
 A: Our mods are planned to stay on only Forge for the time being.
@@ -31,12 +34,6 @@ A: Our mods are planned to stay on only Forge for the time being.
 ---
 
 # Questions regarding specific mods
-
-**Q: Is The Endergetic Expansion coming to 1.18.2?**  
-**A:** As it stands, probably not, but the update is not ready yet for 1.19.2, so things could change.
-
-**Q: Where can I find Kousa, Aspen, Grimwood, and Travertine?**  
-**A:** These are currently not implemented completely and will be found in future biomes.
 
 **Q: What happened to Swamp Expansion and Bloomful?**  
 **A:** They were merged into Environmental, a mod that expands upon the overworld as a whole.
